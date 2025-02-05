@@ -13,7 +13,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 ## Project Steps
 
 ### 1. Set Up the Environment
-   - **Tools Used**: Visual Studio Code (VS Code), Python, SQL (MySQL and PostgreSQL)
+   - **Tools Used**: Visual Studio Code (VS Code), Python, SQL MySQL
    - **Goal**: Create a structured workspace within VS Code and organize project folders for smooth development and data handling.
 
 ### 2. Set Up Kaggle API
@@ -30,7 +30,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 ### 4. Install Required Libraries and Load Data
    - **Libraries**: Install necessary Python libraries using:
      ```bash
-     pip install pandas numpy sqlalchemy mysql-connector-python psycopg2
+     pip install pandas numpy sqlalchemy mysql-connector-python
      ```
    - **Loading Data**: Read the data into a Pandas DataFrame for initial analysis and transformations.
 
@@ -78,7 +78,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 - **Python 3.8+**
 - **SQL Databases**: MySQL, PostgreSQL
 - **Python Libraries**:
-  - `pandas`, `numpy`, `sqlalchemy`, `mysql-connector-python`, `psycopg2`
+  - `pandas`, `numpy`, `sqlalchemy`, `mysql-connector-python`
 - **Kaggle API Key** (for data downloading)
 
 ## Getting Started
